@@ -5,8 +5,11 @@ Hello! I'm Gisella, an Argentine developer with experience in graphic design and
 At 29 years old, I consider myself a curious and creative person, always seeking new challenges and opportunities to learn. I enjoy working in teams, collaborating with other professionals to create innovative and high-quality solutions.
 
 🌱 I’m currently learning .net and Unity, for the sole purpose of someday being able to program videogames.
+
 😄 My pronouns are She/her, and I'm a proud member of the LGBTQ+ Community 🏳️‍🌈
+
 ⚡ My known tecnologies to this day are:  JavaScript | React | NodeJS | HTML | CSS | Express | Sequelize | PostgreSQL | C# | Unity | .NET
+
 🎯 You can contact me here: gg.kallisti@gmail.com or https://www.linkedin.com/in/gisella-gkallisti/
 
 -Coding 
