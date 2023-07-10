@@ -12,6 +12,10 @@ At 29 years old, I consider myself a curious and creative person, always seeking
 
 🎯 You can contact me here: gg.kallisti@gmail.com or https://www.linkedin.com/in/gisella-gkallisti/
 
+Link to My most recent project:
+![Static Badge](https://img.shields.io/badge/Lobby-Lair-red?link=https%3A%2F%2Flobbylair.vercel.app%2F&link=https%3A%2F%2Flobbylair.vercel.app%2F)
+
+
 ES:
 ### ¡Hola! ❤️‍🔥
 
@@ -27,7 +31,8 @@ A mis 29 años me considero una persona curiosa y creativa, siempre en busca de 
 
 🎯 Puedes contactarme aquí: gg.kallisti@gmail.com o https://www.linkedin.com/in/gisella-gkallisti/
 
-Link to My most recent proyect:
+Link a mi proyecto mas reciente:
+
 ![Static Badge](https://img.shields.io/badge/Lobby-Lair-red?link=https%3A%2F%2Flobbylair.vercel.app%2F&link=https%3A%2F%2Flobbylair.vercel.app%2F)
 
 
