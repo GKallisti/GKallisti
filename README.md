@@ -1,4 +1,4 @@
-### Hi there!👋
+### Hi there!❤️‍🔥
 
 Hello! I'm Gisella, an Argentine developer with experience in graphic design and an unwavering love for programming and video games.
 
@@ -11,6 +11,26 @@ At 29 years old, I consider myself a curious and creative person, always seeking
 ⚡ My known tecnologies to this day are:  JavaScript | React | NodeJS | HTML | CSS | Express | Sequelize | PostgreSQL | C# | Unity | .NET
 
 🎯 You can contact me here: gg.kallisti@gmail.com or https://www.linkedin.com/in/gisella-gkallisti/
+
+ES:
+### ¡Hola! ❤️‍🔥
+
+¡Hola! Soy Gisella, una desarrolladora argentina con experiencia en diseño gráfico y un amor inquebrantable por la programación y los videojuegos.
+
+A mis 29 años me considero una persona curiosa y creativa, siempre en busca de nuevos retos y oportunidades para aprender. Disfruto trabajando en equipo, colaborando con otros profesionales para crear soluciones innovadoras y de alta calidad.
+
+🌱 Actualmente estoy aprendiendo .net y Unity, con el único fin de algún día poder programar videojuegos.
+
+😄 Mis pronombres son ella/la, y soy una miembro orgullosa de la comunidad LGBTQ+ 🏳️‍🌈
+
+⚡ Mis tecnologías conocidas hasta el día de hoy son: JavaScript | reaccionar | NodoJS | HTML | CSS | expreso | Secuela | PostgresSQL | C# | Unidad | .NETO
+
+🎯 Puedes contactarme aquí: gg.kallisti@gmail.com o https://www.linkedin.com/in/gisella-gkallisti/
+
+Link to My most recent proyect:
+![Static Badge](https://img.shields.io/badge/Lobby-Lair-red?link=https%3A%2F%2Flobbylair.vercel.app%2F&link=https%3A%2F%2Flobbylair.vercel.app%2F)
+
+
 
 -Coding 
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)](https://es.wikipedia.org/wiki/HTML)  [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
