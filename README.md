@@ -27,7 +27,7 @@ A mis 29 años me considero una persona curiosa y creativa, siempre en busca de 
 
 😄 Mis pronombres son ella/la, y soy una miembro orgullosa de la comunidad LGBTQ+ 🏳️‍🌈
 
-⚡ Mis tecnologías conocidas hasta el día de hoy son: JavaScript | reaccionar | NodoJS | HTML | CSS | expreso | Secuela | PostgresSQL | C# | Unidad | .NETO
+⚡ Mis tecnologías conocidas hasta el día de hoy son: JavaScript | React | NodeJS | HTML | CSS | Espress | Sequelize | PostgresSQL | C# | Unity | .NETO
 
 🎯 Puedes contactarme aquí: gg.kallisti@gmail.com o https://www.linkedin.com/in/gisella-gkallisti/
 
