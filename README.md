@@ -23,7 +23,7 @@ Mi nombre es Gisella, soy desarrolladora fullstack especializada en Java y JavaS
 🎯 Podes contactarme aquí: gg.kallisti@gmail.com o https://www.linkedin.com/in/gisella-gkallisti/
 
 
-[![Este es mi Portfolio!](https://img.shields.io/badge/Este%20es%20mi%20Protfolio!%21-f2b90c)](https://gkallisti.vercel.app/)
+[![Este es mi Portfolio!](https://img.shields.io/badge/Este%20es%20mi%20Portfolio%21-f2b90c)](https://gkallisti.vercel.app/)
 
 
 
