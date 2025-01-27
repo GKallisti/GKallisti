@@ -1,10 +1,6 @@
 ### Hi there!❤️‍🔥
 
-Hello! I'm Gisella, an Argentine developer with experience in graphic design and an unwavering love for programming and video games.
-
-At 29 years old, I consider myself a curious and creative person, always seeking new challenges and opportunities to learn. I enjoy working in teams, collaborating with other professionals to create innovative and high-quality solutions.
-
-🌱 I’m currently learning .net and Unity, for the sole purpose of someday being able to program videogames.
+My name is Gisella, I am a fullstack developer specializing in Java and JavaScript, with a strong focus on Oracle systems such as OTM and ODA. I consider myself an analytical, design-oriented, and creative individual with a passion for finding innovative solutions to complex challenges.
 
 😄 My pronouns are She/her, and I'm a proud member of the LGBTQ+ Community 🏳️‍🌈
 
@@ -19,21 +15,16 @@ Link to My most recent project:
 ES:
 ### ¡Hola! ❤️‍🔥
 
-¡Hola! Soy Gisella, una desarrolladora argentina con experiencia en diseño gráfico y un amor inquebrantable por la programación y los videojuegos.
-
-A mis 29 años me considero una persona curiosa y creativa, siempre en busca de nuevos retos y oportunidades para aprender. Disfruto trabajando en equipo, colaborando con otros profesionales para crear soluciones innovadoras y de alta calidad.
-
-🌱 Actualmente estoy aprendiendo .net y Unity, con el único fin de algún día poder programar videojuegos.
+Mi nombre es Gisella, soy desarrolladora fullstack especializada en Java y JavaScript, con un fuerte enfoque en sistemas Oracle como OTM y ODA. Me considero una persona analítica, orientada al diseño y creativa con pasión por encontrar soluciones innovadoras a desafíos complejos.
 
 😄 Mis pronombres son ella/la, y soy una miembro orgullosa de la comunidad LGBTQ+ 🏳️‍🌈
 
 ⚡ Mis tecnologías conocidas hasta el día de hoy son: JavaScript | React | NodeJS | HTML | CSS | Espress | Sequelize | PostgresSQL | C# | Unity | .NETO
 
-🎯 Puedes contactarme aquí: gg.kallisti@gmail.com o https://www.linkedin.com/in/gisella-gkallisti/
+🎯 Podes contactarme aquí: gg.kallisti@gmail.com o https://www.linkedin.com/in/gisella-gkallisti/
 
-Link a mi proyecto mas reciente:
 
-![Static Badge](https://img.shields.io/badge/Lobby-Lair-red?link=https%3A%2F%2Flobbylair.vercel.app%2F&link=https%3A%2F%2Flobbylair.vercel.app%2F)
+[![My portfolio here!](https://img.shields.io/badge/My%20portfolio%20here%21-f2b90c)](https://gkallisti.vercel.app/)
 
 
 
