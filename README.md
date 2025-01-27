@@ -8,8 +8,7 @@ My name is Gisella, I am a fullstack developer specializing in Java and JavaScri
 
 🎯 You can contact me here: gg.kallisti@gmail.com or https://www.linkedin.com/in/gisella-gkallisti/
 
-Link to My most recent project:
-![Static Badge](https://img.shields.io/badge/Lobby-Lair-red?link=https%3A%2F%2Flobbylair.vercel.app%2F&link=https%3A%2F%2Flobbylair.vercel.app%2F)
+[![My portfolio here!](https://img.shields.io/badge/My%20portfolio%20here%21-f2b90c)](https://gkallisti.vercel.app/)
 
 
 ES:
@@ -24,7 +23,7 @@ Mi nombre es Gisella, soy desarrolladora fullstack especializada en Java y JavaS
 🎯 Podes contactarme aquí: gg.kallisti@gmail.com o https://www.linkedin.com/in/gisella-gkallisti/
 
 
-[![My portfolio here!](https://img.shields.io/badge/My%20portfolio%20here%21-f2b90c)](https://gkallisti.vercel.app/)
+[![Este es mi Portfolio!](https://img.shields.io/badge/Este%20es%20mi%20Protfolio!%21-f2b90c)](https://gkallisti.vercel.app/)
 
 
 
