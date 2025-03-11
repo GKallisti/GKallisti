@@ -1,6 +1,6 @@
 ### Hi there!❤️‍🔥
 
-My name is Gisella, I am a fullstack developer specializing in Java and JavaScript, with a strong focus on Oracle systems such as OTM and ODA. I consider myself an analytical, design-oriented, and creative individual with a passion for finding innovative solutions to complex challenges.
+My name is Gisella, I am a fullstack developer specializing in JavaScript, with a strong focus on Oracle systems such as OTM and ODA. I consider myself an analytical, design-oriented, and creative individual with a passion for finding innovative solutions to complex challenges.
 
 😄 My pronouns are She/her, and I'm a proud member of the LGBTQ+ Community 🏳️‍🌈
 
