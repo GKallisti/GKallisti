@@ -8,6 +8,6 @@ Hands-on experience with AI agents, conversational interfaces, data processing, 
 
 Core technologies: JavaScript, Node.js, SQL, Oracle SDK, REST APIs, OpenAI API, chatbots, automation, and integration platforms.
 
-[![My portfolio here!](https://img.shields.io/badge/My%20portfolio%20here%21-f2b90c)](https://gkallisti.vercel.app/)
+[![My portfolio here!](https://img.shields.io/badge/My%20portfolio%20here%21-f2b90c)](https://aidev-gg.ar/)
 
 
